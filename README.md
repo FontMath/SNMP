@@ -31,7 +31,7 @@ No sé por qué pero no encontré esa referencia, entonces Crea una nueva librer
 
 <a href="http://es.tinypic.com?ref=35id9hh" target="_blank"><img src="http://i67.tinypic.com/35id9hh.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
-## 4. Glassfish server en Netbeans
+## 4. Glassfish server en Netbeans (porque lo pediste)
 1. Tools -> Server Manager
 2. Add Server.
 3. Selecciona GlassFish y Next.
