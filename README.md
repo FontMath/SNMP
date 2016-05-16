@@ -15,13 +15,13 @@ No sé por qué pero no encontré esa referencia, entonces Crea una nueva librer
 
 <a href="http://es.tinypic.com?ref=ejd1sp" target="_blank"><img src="http://i63.tinypic.com/ejd1sp.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
-2.3 Reinicia la computadora
-2.4 Windows+R y ejecuta services.msc
-2.5 Busca "SNMP Service". Clic derecho y "Propiedades"
-2.6 Vete al tab "Security"
-2.7 Agrega una nueva comunidad con el nombre "clases" con privilegios de lectura y escritura.
-2.8 Elige Accept SNMP packets from any host
-2.8 Apply
+2.3 Reinicia la computadora<br>
+2.4 Windows+R y ejecuta services.msc<br>
+2.5 Busca "SNMP Service". Clic derecho y "Propiedades"<br>
+2.6 Vete al tab "Security"<br>
+2.7 Agrega una nueva comunidad con el nombre "clases" con privilegios de lectura y escritura.<br>
+2.8 Elige Accept SNMP packets from any host<br>
+2.8 Apply<br>
 
 <a href="http://es.tinypic.com?ref=2yy3y48" target="_blank"><img src="http://i67.tinypic.com/2yy3y48.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
