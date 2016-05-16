@@ -22,7 +22,7 @@ public class classPieGraph {
     public JFreeChart createChart(PieDataset dataset) {
         
         JFreeChart chart = ChartFactory.createPieChart(
-            "Pie Chart Demo 1",  // chart title
+            "Gráfica de Disco",  // chart title
             dataset,             // data
             true,               // include legend
             true,

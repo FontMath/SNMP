@@ -14,12 +14,10 @@ public class classSNMP {
             if(numeroDeDisco<1){
                 return null; 
             }
-            ipAddress="192.168.11.9"; 
             System.out.println(ipAddress);
             String Comunidad="clases";
             String OIDInicial="1.3.6.1.2.1.25.2.3.1";
             claseDisco objectDisk = new claseDisco(""); 
-            //OIDInicial="1.3.6.1.2.1.2.2.1";
             String OID=SNMP4JHelper.snmpGetNextOID(ipAddress,Comunidad,OIDInicial);            
             int k=1,iteracion;
             //Se repetirá el ciclo hasta que ya no se obtengan más datos. 

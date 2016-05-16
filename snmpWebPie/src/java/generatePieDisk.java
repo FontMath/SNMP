@@ -31,7 +31,7 @@ public class generatePieDisk extends HttpServlet {
             
             classSNMP objectSNMP= new classSNMP(); 
             claseDisco objectDisk = new claseDisco(""); 
-            objectDisk = objectSNMP.consulta("192.168.11.9", disco); 
+            objectDisk = objectSNMP.consulta("192.168.11.7", disco); 
             
          classPieGraph constructorGrafica = new classPieGraph();    
          JFreeChart chart = constructorGrafica.createChart(constructorGrafica.createDataset(objectDisk)); 
