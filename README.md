@@ -30,3 +30,10 @@ No sé por qué pero no encontré esa referencia, entonces Crea una nueva librer
 3.1 Ubica la línea 34 y cambia la IP a la tuya. En mac puedes hacer eso con "ifconfig" en terminal.
 
 <a href="http://es.tinypic.com?ref=35id9hh" target="_blank"><img src="http://i67.tinypic.com/35id9hh.png" border="0" alt="Image and video hosting by TinyPic"></a>
+
+## 4. Glassfish server en Netbeans
+1. Tools -> Server Manager
+2. Add Server.
+3. Selecciona GlassFish y Next.
+4. Selecciona la ubicación de instalacción.
+TERMINAR
